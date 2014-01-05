@@ -12,6 +12,6 @@
 	<name>LifeRefactor :: Module :: Product</name>
 	<description>products</description>
 	<modules>
-		<module>products/ticket</module>
+		<module>ticket</module>
 	</modules>
 </project>
