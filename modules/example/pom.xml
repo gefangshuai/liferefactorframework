@@ -3,9 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>net.wincn</groupId>
-		<artifactId>liferefactor-parent</artifactId>
+		<artifactId>liferefactorframework</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>../parent/</relativePath>
 	</parent>
 	<artifactId>liferefactor-example</artifactId>
 	<packaging>pom</packaging>

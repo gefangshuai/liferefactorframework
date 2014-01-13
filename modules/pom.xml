@@ -2,18 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>net.wincn</groupId>
-    <artifactId>liferefactor-parent</artifactId>
+    <artifactId>liferefactorframework</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <relativePath>../modules/parent/</relativePath>
   </parent>
   <artifactId>liferefactor-modules</artifactId>
   <packaging>pom</packaging>
   <name>LifeRefactor :: Module</name>
   <description>modules</description>
-  <modules>
-  	<module>common</module>
-  	<module>parent</module>
-  	<module>products</module>
-  	<module>example</module>
-  </modules>
 </project>
