@@ -5,12 +5,13 @@
 		<groupId>net.wincn</groupId>
 		<artifactId>liferefactorframework</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../..</relativePath>
 	</parent>
 	<artifactId>liferefactor-example</artifactId>
 	<packaging>pom</packaging>
 	<name>LifeRefactor :: Module :: Example</name>
 	<description>some examples</description>
 	<modules>
-	<module>ormlite</module>
+		<module>ormlite</module>
 	</modules>
 </project>

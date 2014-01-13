@@ -5,12 +5,11 @@
 		<groupId>net.wincn</groupId>
 		<artifactId>liferefactorframework</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../..</relativePath>
 	</parent>
 	<artifactId>liferefactor-product</artifactId>
 	<packaging>pom</packaging>
 	<name>LifeRefactor :: Module :: Product</name>
 	<description>products</description>
-	<modules>
-		<module>ticket</module>
-	</modules>
+
 </project>

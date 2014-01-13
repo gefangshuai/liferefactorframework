@@ -4,6 +4,7 @@
     <groupId>net.wincn</groupId>
     <artifactId>liferefactorframework</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <relativePath>..</relativePath>
   </parent>
   <artifactId>liferefactor-modules</artifactId>
   <packaging>pom</packaging>

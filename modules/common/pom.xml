@@ -5,6 +5,7 @@
 		<groupId>net.wincn</groupId>
 		<artifactId>liferefactorframework</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../..</relativePath>
 	</parent>
 	<artifactId>liferefactor-common</artifactId>
 	<name>LifeRefactor :: Module :: Common</name>

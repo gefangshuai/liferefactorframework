@@ -924,4 +924,11 @@
 		</profile>
 	</profiles>
 
+	<modules>
+		<module>modules/example</module>
+		<module>modules/example/ormlite</module>
+		<module>modules/products</module>
+		<module>modules</module>
+		<module>modules/common</module>
+	</modules>
 </project>
