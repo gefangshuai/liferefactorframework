@@ -5,7 +5,6 @@
 		<groupId>net.wincn</groupId>
 		<artifactId>liferefactorframework</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>../../lif</relativePath>
 	</parent>
 	<artifactId>liferefactor-example-ormlite</artifactId>
 	<packaging>jar</packaging>
